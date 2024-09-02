@@ -17,11 +17,11 @@ Explore the interactive Tableau dashboard by following this link: [Loyalytics Ta
 ## Usage
 1.	Clone the repository: [https://github.com/saurabhdeshetti/Loyalytics-Sales-Data-Analysis-with-Tableau/edit/main/README.md#loyalytics-sales-data-analysis-with-tableau](https://github.com/saurabhdeshetti/Loyalytics-Sales-Data-Analysis-with-Tableau)
    
-2.	Open the Loyalytics Data description.pdf file to understand the dataset and project context.
+2.	Open the `Loyalytics Data description.pdf` file to understand the dataset and project context.
    
 3.	Explore the Tableau visualization by following the link provided above.
    
-4.	Refer to Loyalytics Business Case.pdf for detailed screenshots and insights from the project.
+4.	Refer to `Loyalytics Business Case.pdf` for detailed screenshots and insights from the project.
 
 Feel free to reach out for any inquiries or suggestions regarding this project.
 
