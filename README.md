@@ -9,7 +9,7 @@ The project includes insights derived from a comprehensive dataset comprising ov
 Explore the interactive Tableau dashboard by following this link: [Loyalytics Tableau Dashboard](https://public.tableau.com/app/profile/saurabh.deshetti/viz/LoyalyticsBusinessCase_17148983807930/Dashboard2)
 
 ## Contents
-- `Loyalytics Data description.pdf`: Provides detailed information about the Loyalytics Business Case Study and the context of the company.
+- Loyalytics Data description.pdf: Provides detailed information about the Loyalytics Business Case Study and the context of the company.
 - `Loyalytics Business Case.pdf`: Presents the actual project with screenshots showcasing the visuals and insights based on various questions answered throughout the study.
 
 
